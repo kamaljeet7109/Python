@@ -29,7 +29,4 @@ def main():
     
     # Task d)
     print("Letters at odd indices:", user_input[1::2])
-
-if __name__ == "__main__":
-    main()
 	  
